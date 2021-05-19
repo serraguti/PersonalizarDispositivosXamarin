@@ -10,7 +10,7 @@ namespace PersonalizarDispositivos
         {
             InitializeComponent();
 
-            MainPage = new Views.EstilosExternos();
+            MainPage = new Views.PaginaEstilosCSS();
         }
 
         protected override void OnStart()
